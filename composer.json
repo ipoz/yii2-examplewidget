@@ -1,0 +1,22 @@
+{
+  "name": "ipoz/yii2-examplewidget",
+  "description": "Krótki opis",
+  "keywords": ["yii2", "extension", "widget"],
+  "type": "yii2-extension",
+  "homepage": "https://github.com/ipoz/yii2-examplewidget",
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "authors": [
+    {
+      "name": "ipoz",
+      "email": "rafal@ipoz.eu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ipoz\\yii2\\examplewidget\\": ""
+    }
+  }
+}
